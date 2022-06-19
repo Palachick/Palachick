@@ -1,4 +1,4 @@
 # Paul Chistiakov(@palachick) ✋
 
-* 💻 Core stack : Python, basic Golang, Frontend and Backend on JavaScript
+* 💻 Core stack : Frontend and Backend on JavaScript, basic blockchain
 * 🖊️ Networks : Telegram @palachick
